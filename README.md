@@ -13,35 +13,35 @@
 
 ---- 
 
-Hi, I'm Camille Ayume, currently working as a Mathematical Modeling Analyst, and aimmming to be a FullStack Developer and a Data Scientist
+Hi, I'm Camille Ayume, currently working as a Mathematical Modeling Analyst, and aimmming to be a FullStack Developer and a Data Scientist.
 
-**Under construction**
+I'm from Brazil, living in Campinas - São Paulo and currently working at UniSoma.
 
-<!-- 
-I'm a Front-end Typescript Developer from Brazil 💚, **22 years old** 👶🏻 and **8 years of coding** 🧐. 
-
-**A learning lover** 📕, **an aspiring designer** 🎸 and a good **video-game player** 🎮 and **a Duck lover** 🗡 fan. 
-<!-- 
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
-* 🛹 Also surfing on microcontrollers stuff.
-
--->
+**A learning lover** 📕, an aspiring **designer and painter** 🖌,  a good **druid** 🧝‍♀️ and **malkavian**  🧛‍♀️ and also **a duck lover** 🦆.
 
 ----
 
 **Languages and Tools:**  
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0066b1)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0066b1)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=0066b1)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=0066b1)
+![](https://img.shields.io/badge/Tools-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=0066b1)
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse-ide&logoColor=white&color=0066b1)
+![](https://img.shields.io/badge/Tools-Pentaho_Data_Integration-informational?style=flat&logo=hitachi&logoColor=white&color=0066b1)
+
 
 **Learning:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0066b1)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=0066b1)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=0066b1)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=0066b1)
+
 
 ----
+
+<!-- icons -->
+
+[1.1]: https://i.imgur.com/1SX05I9.png (nodejs icon)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
